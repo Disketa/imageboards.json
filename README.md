@@ -39,6 +39,7 @@ Other lists that may be of interest:
 * https://komica.org/
 * http://txtchan.org/ (textchan overchan)
 * http://xiongnu.org/overtext/ (The overtext)
+* http://neolurk.org/wiki/Список_русскоязычных_имиджборд
 * https://lurkmore.to/Зарубежные_имиджборды
 * https://lurkmore.to/Отечественные_имиджборды
 * http://www.wikinet.pro/wiki/Anexo:Lista_de_chans_brasileiros_ativos
